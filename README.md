@@ -66,3 +66,5 @@ Hey there! I love to read, speak, and discuss trending tech, space, and science.
 	<a href="https://github.com/gokul-1998"><img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub"/></a>
 	</a>
 </p>
+
+<p id="end"></p>
